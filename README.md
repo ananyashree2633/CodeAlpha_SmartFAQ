@@ -1,5 +1,13 @@
 # 🤖 SmartFAQ
 
+SmartFAQ is an intelligent FAQ chatbot...
+
+## 🚀 Live Demo
+
+**🔗 [Launch SmartFAQ →](https://smartfaq-7efn2egsyxnq53gj7nffay.streamlit.app/)**
+
+> 💡 No installation required. Open the link and start asking questions!
+
 ## Intelligent Student Support Assistant
 
 SmartFAQ is an AI/NLP-based FAQ chatbot designed to answer common college and university student questions.

@@ -799,7 +799,7 @@ if question:
 with info_col:
 
     st.markdown(
-        '<div class="section-title">✨ How it works</div>',
+        '<div class="section-title">How it works</div>',
         unsafe_allow_html=True,
     )
 
@@ -811,7 +811,7 @@ with info_col:
     )
 
     st.markdown(
-        '<div class="section-title">🎯 Confidence</div>',
+        '<div class="section-title">Confidence</div>',
         unsafe_allow_html=True,
     )
 
