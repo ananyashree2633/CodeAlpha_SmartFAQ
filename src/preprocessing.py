@@ -5,11 +5,18 @@ import nltk
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 
+NLTK_DATA_PATH = "/Users/ayushmanraj/nltk_data"
+
+nltk.data.path.insert(0, NLTK_DATA_PATH)
+
 REQUIRED_RESOURCES = {
+
     "corpora/stopwords": "stopwords",
+
     "corpora/wordnet": "wordnet",
-    "corpora/omw-1.0": "omw-1.0",
+
     "tokenizers/punkt_tab": "punkt_tab",
+
 }
 
 def ensure_nltk_resources():
