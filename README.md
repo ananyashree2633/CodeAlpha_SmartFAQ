@@ -2,7 +2,7 @@
 
 SmartFAQ is an intelligent FAQ chatbot...
 
-## 🚀 Live Demo
+## 🚀 Live Demo.
 
 **🔗 [Launch SmartFAQ →](https://smartfaq-7efn2egsyxnq53gj7nffay.streamlit.app/)**
 
